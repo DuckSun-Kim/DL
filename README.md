@@ -5,3 +5,5 @@
 flickr.com 가입후 AP key를 복사해서 넣으세요~
 
 https://www.flickr.com/services/apps/create
+
+다운로드를 생략하시려면 image.zip 파일을 다운로드 해서 해당 폴더에 압축 푸세요
